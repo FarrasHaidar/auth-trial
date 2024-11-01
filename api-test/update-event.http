@@ -1,0 +1,10 @@
+PUT http://localhost:8080/events/19
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFsYW5AZXhhbXBsZS5jb20iLCJleHAiOjE3MzA0NzIwMzQsInVzZXJJZCI6MTR9.TEk38loIQrFGJVPdPmobi0Y6zvNqKifH_QeGBprTqTo
+
+{
+    "name": "El Noctis Lucis Caelum",
+    "description": "Final Fantasy XXII",
+    "location": "Lucis Caelum",
+    "dateTime" : "2025-01-01T15:30:00.00Z"
+}
